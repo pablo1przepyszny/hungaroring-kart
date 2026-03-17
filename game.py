@@ -456,8 +456,6 @@ def main():
         run_game(config)
         return
 
-
-def main():
     print("=== Simple Hungaroring Kart ===")
     width = ask_int("Screen width", 1280)
     height = ask_int("Screen height", 720)
